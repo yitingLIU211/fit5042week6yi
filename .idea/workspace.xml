@@ -13,8 +13,6 @@
     <list default="true" id="31b02663-e8b4-4721-9030-75af267a033f" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/pokemon/.browserslistrc" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/pokemon/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pokemon/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pokemon/README.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/pokemon/angular.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/pokemon/e2e/protractor.conf.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/pokemon/e2e/src/app.e2e-spec.ts" afterDir="false" />
@@ -29,6 +27,7 @@
       <change afterPath="$PROJECT_DIR$/pokemon/src/app/app.component.spec.ts" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/pokemon/src/app/app.component.ts" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/pokemon/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pokemon/src/app/pokeapi/README.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/pokemon/src/assets/.gitkeep" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/pokemon/src/environments/environment.prod.ts" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/pokemon/src/environments/environment.ts" afterDir="false" />
@@ -42,6 +41,7 @@
       <change afterPath="$PROJECT_DIR$/pokemon/tsconfig.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/pokemon/tsconfig.spec.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/pokemon/tslint.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,6 +93,7 @@
       <workItem from="1601887427834" duration="1243000" />
       <workItem from="1601889885689" duration="1740000" />
       <workItem from="1601894595140" duration="2142000" />
+      <workItem from="1601898905267" duration="340000" />
     </task>
     <servers />
   </component>
