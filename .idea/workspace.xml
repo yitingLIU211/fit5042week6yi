@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="31b02663-e8b4-4721-9030-75af267a033f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/pokemon/.browserslistrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pokemon/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pokemon/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pokemon/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pokemon/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pokemon/e2e/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pokemon/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pokemon/e2e/src/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pokemon/e2e/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pokemon/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pokemon/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pokemon/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pokemon/src/app/app-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pokemon/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pokemon/src/app/app.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pokemon/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pokemon/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pokemon/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pokemon/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pokemon/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pokemon/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pokemon/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pokemon/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pokemon/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pokemon/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pokemon/src/styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pokemon/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pokemon/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pokemon/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pokemon/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pokemon/tslint.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/pokemon" />
+  </component>
+  <component name="ProjectId" id="1iDm6eMV2T5i91x7DbTyWzokLSI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/W6ExeStudent-solution/W6ExeStudent" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="ts.external.directory.path" value="C:\Users\yitin\WebstormProjects\W6ExeStudent\pokemon\node_modules\typescript\lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="31b02663-e8b4-4721-9030-75af267a033f" name="Default Changelist" comment="" />
+      <created>1601450363445</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601450363445</updated>
+      <workItem from="1601450364754" duration="6618000" />
+      <workItem from="1601461172436" duration="654000" />
+      <workItem from="1601465089079" duration="714000" />
+      <workItem from="1601465940134" duration="584000" />
+      <workItem from="1601603788731" duration="76000" />
+      <workItem from="1601879759405" duration="1016000" />
+      <workItem from="1601880832241" duration="22000" />
+      <workItem from="1601881203416" duration="1151000" />
+      <workItem from="1601882374289" duration="15000" />
+      <workItem from="1601887427834" duration="1243000" />
+      <workItem from="1601889885689" duration="1740000" />
+      <workItem from="1601894595140" duration="2142000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="658" y="223" key="FileChooserDialogImpl" timestamp="1601880844776">
+      <screen x="0" y="0" width="1368" height="882" />
+    </state>
+    <state x="658" y="223" key="FileChooserDialogImpl/0.0.1368.882@0.0.1368.882" timestamp="1601880844776" />
+    <state x="503" y="359" key="Github.CreateGistDialog" timestamp="1601894161803">
+      <screen x="0" y="0" width="1368" height="882" />
+    </state>
+    <state x="503" y="359" key="Github.CreateGistDialog/0.0.1368.882@0.0.1368.882" timestamp="1601894161803" />
+    <state x="173" y="96" key="SettingsEditor" timestamp="1601881890966">
+      <screen x="0" y="0" width="1368" height="882" />
+    </state>
+    <state x="173" y="96" key="SettingsEditor/0.0.1368.882@0.0.1368.882" timestamp="1601881890966" />
+  </component>
+</project>
